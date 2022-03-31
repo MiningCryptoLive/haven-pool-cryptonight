@@ -13,7 +13,7 @@
         "base58-native": "*",
         "bignum": "*",
         "cli-color": "^2.0.1",
-        "cryptoforknote-util": "git://github.com/MoneroOcean/node-cryptoforknote-util.git",
+        "cryptoforknote-util": "git://github.com/xiaozzz/node-cryptoforknote-util-haven.git",
         "cryptonight-hashing": "git://github.com/MoneroOcean/node-cryptonight-hashing.git",
         "dateformat": "^5.0.2",
         "mailgun.js": "^4.1.6",
